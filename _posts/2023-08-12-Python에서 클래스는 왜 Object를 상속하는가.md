@@ -4,6 +4,7 @@ date: 2023-08-12 20:00:00 +0900
 categories:
   - python
 tags:
+  - 파이썬클래스
 ---
 
 ## Object 클래스의 중요성

@@ -4,6 +4,7 @@ date: 2023-08-26 20:00:00 +0900
 categories:
   - python
 tags:
+  - 파이썬타입
 ---
 
 ## `type` 함수의 역할

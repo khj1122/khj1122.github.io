@@ -4,6 +4,7 @@ date: 2023-08-22 20:00:00 +0900
 categories:
   - python
 tags:
+  - Matplotlib
 ---
 
 ## 문제 상황: 범례(legend)가 그래프와 겹침

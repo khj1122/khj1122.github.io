@@ -4,6 +4,7 @@ date: 2023-08-19 20:00:00 +0900
 categories:
   - python
 tags:
+  - 파이썬실행
 ---
 
 ## 서론

@@ -4,6 +4,7 @@ date: 2023-09-12 20:00:00 +0900
 categories:
   - python
 tags:
+  - 파이썬파일이동
 ---
 ## shutil 라이브러리란 무엇인가?
 

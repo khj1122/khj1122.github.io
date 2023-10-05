@@ -4,6 +4,7 @@ date: 2023-09-11 20:00:00 +0900
 categories:
   - python
 tags:
+  - 파이썬assert
 ---
 
 ## `assert`란 무엇인가?

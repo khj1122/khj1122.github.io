@@ -4,6 +4,7 @@ date: 2023-08-29 20:00:00 +0900
 categories:
   - python
 tags:
+  파이썬JSON
 ---
 
 ## JSON 데이터 파싱이란 무엇인가?

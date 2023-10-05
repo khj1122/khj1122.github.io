@@ -4,6 +4,7 @@ date: 2023-09-13 20:00:00 +0900
 categories:
   - python
 tags:
+  - PostgreSQL
 ---
 
 ## 오류 설명

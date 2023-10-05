@@ -4,6 +4,7 @@ date: 2023-09-27 20:00:00 +0900
 categories:
   - python
 tags:
+  - pandas
 ---
 
 ## 문제 상황과 오류 메시지

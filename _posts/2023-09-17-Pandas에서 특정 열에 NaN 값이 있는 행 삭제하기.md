@@ -4,6 +4,7 @@ date: 2023-09-17 20:00:00 +0900
 categories:
   - python
 tags:
+  - pandas
 ---
 
 ## 소개
