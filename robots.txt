@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://khj1122.github.io/sitemap.xml
+
+#DaumWebMasterTool:fe8b41edf10d1a3efcc506e5d459d03b5c77ba751005f2fc1aac25c8cdc47573:K5NHWMt5JRJpVGszrCNoYA==
