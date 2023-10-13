@@ -35,6 +35,15 @@ layout: compress
             aria-label="Main Content"
             class="col-12 col-lg-11 col-xl-9 px-md-4{% unless has_tail %} pb-5{% endunless %}"
           >
+            <script>
+            	if ( window.matchMedia( '( min-width: 1024px )' ).matches == true ) {
+            		document.write( '<ins class="kakao_ad_area" style="display:none;" data-ad-unit = "DAN-RLuBvzSC367WFgbp" data-ad-width = "728" data-ad-height = "90"></ins><script type="text/javascript" src="//t1.daumcdn.net/adfit/static/ad.min.js" async><\/script>' );
+            	}
+            	if ( window.matchMedia( '( max-width: 768px )' ).matches == true ) {
+            		document.write( '<ins class="kakao_ad_area" style="display:none;" data-ad-unit = "DAN-b4iElm3B2zXV5X2I" data-ad-width = "320" data-ad-height = "100"></ins><script type="text/javascript" src="//t1.daumcdn.net/adfit/static/ad.min.js" async><\/script>' );
+            	}
+            </script>
+          </script>
             {{ content }}
           </main>
 
